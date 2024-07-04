@@ -29,6 +29,10 @@ To use this registration form:
 - **CSS Styling:** The `styles.css` file provides the visual styling for the form elements to make it user-friendly and visually appealing.
 - **JavaScript Interactivity:** The `script.js` file handles the client-side validation and submission of the form. It validates user inputs such as email format, password strength, etc., and prevents the form from being submitted if there are validation errors.
 
+## Screenshots
+![Screenshot 2024-07-04 171103](https://github.com/ayishwaryaC/Resgister-Form-/assets/124068540/ff0cf652-d26a-42d0-a327-6f0013f9729c)
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
@@ -36,4 +40,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+Email:ayishwaryac@gmail.com
+LinkedIn:https://www.linkedin.com/in/ayishwaryac
 
